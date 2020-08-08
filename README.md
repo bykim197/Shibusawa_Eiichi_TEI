@@ -1,4 +1,4 @@
-# Shibusawa_Eiichi_TEI
+# Shibusawa-Eiichi-TEI
 渋沢栄一に関連する資料のTEIマークアップのためのレポジトリです。
 このレポジトリは、Githubテストのために作成したものです。
 
