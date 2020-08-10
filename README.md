@@ -18,4 +18,6 @@
     これはテスト
     これもテスト
     ここまでテスト
-
+    
+[Google](https://www.google.co.jp/)
+![Googleロゴ](https://google.co.jp/images/srpr/logo11w.png)
