@@ -21,3 +21,6 @@
     
 [Google](https://www.google.co.jp/)
 ![Googleロゴ](https://google.co.jp/images/srpr/logo11w.png)
+
+Google[^1]
+[^1]:Google日本語版
